@@ -4,4 +4,6 @@ interface Env {
   GROQ_API_KEY: string;
   OPEN_ROUTER_API_KEY: string;
   OLLAMA_API_BASE_URL: string;
+  DEEPSEEK_API_KEY: string;
+  DEEPSEEK_API_BASE_URL: string;
 }
